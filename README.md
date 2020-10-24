@@ -33,6 +33,6 @@ This project was developed with:
 
 Proffy is an online platform that helps people find teachers. 
 
-Developed during [Rocketseat](https://rocketseat.com.br/) <strong> Next Level Week 03 </strong>.
+Developed during [Rocketseat](https://rocketseat.com.br/) <strong> Next Level Week 02 </strong>.
 
 ---
